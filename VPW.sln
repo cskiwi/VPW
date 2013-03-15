@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_VoorbeeldOpgave", "00_Vo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_C0_1 - MinMax", "10_C0_1 - MinMax\10_C0_1 - MinMax.csproj", "{74FAD3AA-1835-4C22-BB96-496CEAB12E25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_C1_1 - Blokjes", "10_C1_1 - Blokjes\10_C1_1 - Blokjes.csproj", "{DA1197C0-F9EB-40D9-9C5F-01409E53AF87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{74FAD3AA-1835-4C22-BB96-496CEAB12E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74FAD3AA-1835-4C22-BB96-496CEAB12E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74FAD3AA-1835-4C22-BB96-496CEAB12E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1197C0-F9EB-40D9-9C5F-01409E53AF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1197C0-F9EB-40D9-9C5F-01409E53AF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1197C0-F9EB-40D9-9C5F-01409E53AF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1197C0-F9EB-40D9-9C5F-01409E53AF87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
