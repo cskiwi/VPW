@@ -7,8 +7,8 @@
     <ProjectGuid>{F18B58CC-3017-4EB6-9414-805281E5518E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_10_C1_C3___Breuken</RootNamespace>
-    <AssemblyName>10_C1_C3 - Breuken</AssemblyName>
+    <RootNamespace>_10_C1_3___Breuken</RootNamespace>
+    <AssemblyName>10_C1_3 - Breuken</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
