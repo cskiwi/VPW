@@ -26,7 +26,8 @@ namespace _10_C1_4___ptaal {
                     } else
                         output += input[ch];
                 }
-                output += "\n";
+                if (i != aantal-1)
+                    output += "\n";
 
             }
             stdout.WriteLine(output);
