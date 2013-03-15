@@ -22,7 +22,6 @@ namespace _10_C1_1___Blokjes {
             for (int i = 0; i < aantalTorens; i++) {
                 stdout.WriteLine(totaalBlokken[i]);
             }
-            stdin.Read();
         }
     }
 }
