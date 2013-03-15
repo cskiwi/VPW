@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_C1_2 - Caesar", "10_C1_2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_C1_3 - Breuken", "10_C1_3 - Breuken\10_C1_3 - Breuken.csproj", "{F18B58CC-3017-4EB6-9414-805281E5518E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_C1_4 - ptaal", "10_C1_4 - ptaal\10_C1_4 - ptaal.csproj", "{765A9DE6-7832-438F-B8E0-A2E422D25A4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{F18B58CC-3017-4EB6-9414-805281E5518E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F18B58CC-3017-4EB6-9414-805281E5518E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F18B58CC-3017-4EB6-9414-805281E5518E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765A9DE6-7832-438F-B8E0-A2E422D25A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765A9DE6-7832-438F-B8E0-A2E422D25A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765A9DE6-7832-438F-B8E0-A2E422D25A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765A9DE6-7832-438F-B8E0-A2E422D25A4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
