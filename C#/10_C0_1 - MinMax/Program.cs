@@ -1,4 +1,4 @@
-﻿using System.IO;
+using System.IO;
 
 namespace _10_C0_1___MinMax {
     class Program {
