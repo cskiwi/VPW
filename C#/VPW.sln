@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_C0_1 - MinMax", "10_C0_1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_C1_1 - Blokjes", "10_C1_1 - Blokjes\10_C1_1 - Blokjes.csproj", "{DA1197C0-F9EB-40D9-9C5F-01409E53AF87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_C1_2 - Caesar", "10_C1_2 - Caesar\10_C1_2 - Caesar.csproj", "{060CF992-35D7-4017-B331-E63D638A4734}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_C1_C3 - Breuken", "10_C1_C3 - Breuken\10_C1_C3 - Breuken.csproj", "{F18B58CC-3017-4EB6-9414-805281E5518E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{DA1197C0-F9EB-40D9-9C5F-01409E53AF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA1197C0-F9EB-40D9-9C5F-01409E53AF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA1197C0-F9EB-40D9-9C5F-01409E53AF87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060CF992-35D7-4017-B331-E63D638A4734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060CF992-35D7-4017-B331-E63D638A4734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060CF992-35D7-4017-B331-E63D638A4734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060CF992-35D7-4017-B331-E63D638A4734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18B58CC-3017-4EB6-9414-805281E5518E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18B58CC-3017-4EB6-9414-805281E5518E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18B58CC-3017-4EB6-9414-805281E5518E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18B58CC-3017-4EB6-9414-805281E5518E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
