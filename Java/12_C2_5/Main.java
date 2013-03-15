@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 
-public class C2P5Woorden {
+public class Main {
 	static String[] grepen;
 	static int max;
 	

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C2P4Reservoir {
+public class Main {
 	static int x,y,level,water;
 	static int[][] stapel;
 	

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class C2P3Quilt {
+public class Main {
 	private static HashMap<Integer, Character> stuff = new HashMap<Integer, Character>();
 
 	public static void main(String[] args) {
