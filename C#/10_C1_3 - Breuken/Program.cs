@@ -50,7 +50,8 @@ namespace _10_C1_3___Breuken {
                     foreach (char c in teller)
                         output += c;
                 }
-                output += "\n\r";
+                if(a<aantal-1)
+                    output += "\n\r";
             }
             stdout.WriteLine(output);
         }
