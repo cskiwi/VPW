@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>d3a60f1c-a8be-43dd-80ef-208ef27bcee2</ProjectGuid>
+    <ProjectGuid>{F18B58CC-3017-4EB6-9414-805281E5518E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_10_C1_C3___Breuken</RootNamespace>
-    <AssemblyName>_10_C1_C3___Breuken</AssemblyName>
+    <AssemblyName>10_C1_C3 - Breuken</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

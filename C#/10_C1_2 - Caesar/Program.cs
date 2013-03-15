@@ -36,7 +36,6 @@ namespace _10_C1_2___Caesar {
             for (int ou = 0; ou < output.Length; ou++) {
                 stdout.WriteLine(output[ou]);
             }
-            stdin.Read();
         }
     }
 }
