@@ -1,0 +1,9 @@
+<?php echo 'JA
+NEEN
+JA
+NEEN
+NEEN
+JA
+JA
+NEEN
+JA' ?>
