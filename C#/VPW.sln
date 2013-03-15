@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_C1_1 - Blokjes", "10_C1_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_C1_2 - Caesar", "10_C1_2 - Caesar\10_C1_2 - Caesar.csproj", "{060CF992-35D7-4017-B331-E63D638A4734}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_C1_C3 - Breuken", "10_C1_C3 - Breuken\10_C1_C3 - Breuken.csproj", "{F18B58CC-3017-4EB6-9414-805281E5518E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_C1_3 - Breuken", "10_C1_3 - Breuken\10_C1_3 - Breuken.csproj", "{F18B58CC-3017-4EB6-9414-805281E5518E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
