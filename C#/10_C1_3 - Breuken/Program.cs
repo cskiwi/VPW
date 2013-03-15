@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace _10_C1_C3___Breuken {
+namespace _10_C1_3___Breuken {
     class Program {
         private static TextReader stdin = System.Console.In;
         private static TextWriter stdout = System.Console.Out;
