@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 
-namespace _10_C0_1___MinMax {
+namespace Posters {
     class Program {
         private static TextReader stdin = System.Console.In;
         private static TextWriter stdout = System.Console.Out;

@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace _10_C0_1___MinMax {
+namespace Cocktails {
     class Program {
         private static TextReader stdin = System.Console.In;
         private static TextWriter stdout = System.Console.Out;
